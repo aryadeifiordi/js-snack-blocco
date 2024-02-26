@@ -10,7 +10,7 @@ for (let i = 0; i < 10; i++) {
 console.log("La somma di tutti i numeri inseriti è: " + somma);
 
 */
-
+/*
 let somma = 0;
 let contatore = 0;
 
@@ -21,3 +21,5 @@ while (contatore < 10) {
 }
 
 console.log("La somma di tutti i numeri inseriti è: " + somma);
+*/
+
